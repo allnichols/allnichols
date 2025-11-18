@@ -5,7 +5,7 @@ I build fast, accessible, and scalable web apps. I love clean UI architecture, s
 
 ### 🔧 Tech I Work With  
 - **Front end:** React, Next.js, TypeScript, HTML/CSS, Tailwind, JavaScript 
-- **Back end:** Node.js  
+- **Back end:** Node.js, SQL, Postgress 
 - **Other:** Java (Learning)
 
 ### 🚀 What I’m Focused On  
