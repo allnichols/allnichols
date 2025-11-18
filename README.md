@@ -6,7 +6,7 @@ I build fast, accessible, and scalable web apps. I love clean UI architecture, s
 ### 🔧 Tech I Work With  
 - **Front end:** React, Next.js, TypeScript, HTML/CSS, Tailwind, JavaScript 
 - **Back end:** Node.js  
-- **Other:** Java (Learning), SpringBoot (Refi
+- **Other:** Java (Learning)
 
 ### 🚀 What I’m Focused On  
 - Strengthening system design & DSA. Also, refining my backend skills and then working more with Java.  
