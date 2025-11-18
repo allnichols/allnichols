@@ -9,7 +9,7 @@ I build fast, accessible, and scalable web apps. I love clean UI architecture, s
 - **Other:** Java (Learning)
 
 ### 🚀 What I’m Focused On  
-- Strengthening system design & DSA. Also, refining my backend skills and then working more with Java.  
+- Strengthening system design & DSA. 
 
 ### 📫 Get in Touch  
 - **LinkedIn:** *[linkedin.com/in/allen-max-nichols/](https://www.linkedin.com/in/allen-max-nichols/)*   
