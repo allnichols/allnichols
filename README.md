@@ -3,15 +3,15 @@
 
 I build fast, accessible, and scalable web apps. I love clean UI architecture, strong developer experience, and solving real product problems with simple, maintainable code.
 
-### 🔧 Tech I Work With  
+### Tech I Work With  
 - **Front end:** React, Next.js, TypeScript, HTML/CSS, Tailwind, JavaScript 
 - **Back end:** Node.js, SQL, Postgress 
 - **Other:** Rust (Learning)
 
-### 🚀 What I’m Focused On  
+### What I’m Focused On  
 - Improving code quality and system design. 
 
-### 📫 Get in Touch  
+### Get in Touch  
 - **LinkedIn:** *[linkedin.com/in/allen-max-nichols/](https://www.linkedin.com/in/allen-max-nichols/)*   
 
 <!--
