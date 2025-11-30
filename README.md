@@ -9,7 +9,7 @@ I build fast, accessible, and scalable web apps. I love clean UI architecture, s
 - **Other:** Rust (Learning)
 
 ### What I'm currently working on
-- **Voyagr**
+- **[Voyagr](https://github.com/allnichols/voyagr)**
 
 ### What I’m Focused On  
 - Improving code quality and system design. 
