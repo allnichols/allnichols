@@ -8,6 +8,9 @@ I build fast, accessible, and scalable web apps. I love clean UI architecture, s
 - **Back end:** Node.js, SQL, Postgress 
 - **Other:** Rust (Learning)
 
+### What I'm currently working on
+- **Voyagr**
+
 ### What I’m Focused On  
 - Improving code quality and system design. 
 
