@@ -11,9 +11,6 @@ I build fast, accessible, and scalable web apps. I love clean UI architecture, s
 ### What I'm currently working on
 - **[Voyagr](https://github.com/allnichols/voyagr)**
 
-### What I’m Focused On  
-- Improving code quality and system design. 
-
 ### Get in Touch  
 - **LinkedIn:** *[linkedin.com/in/allen-max-nichols/](https://www.linkedin.com/in/allen-max-nichols/)*   
 
