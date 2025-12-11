@@ -1,7 +1,8 @@
 ## 👋 Hi, I'm Allen "Max" Nichols
 **Front-End Engineer | JavaScript • TypeScript • React • Node.js**
 
-I build fast, accessible, and scalable web apps. I love clean UI architecture, strong developer experience, and solving real product problems with simple, maintainable code.
+I build fast, accessible, and scalable web apps. I love clean UI architecture, 
+and solving real product problems with simple, maintainable code.
 
 ### Tech I Work With  
 - **Front end:** React, Next.js, TypeScript, HTML/CSS, Tailwind, JavaScript 
